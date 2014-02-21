@@ -1,0 +1,11 @@
+D:\workplace\CHControl\TouchKeyboard\TouchKeyboard\bin\Debug\TouchKeyboard.dll
+D:\workplace\CHControl\TouchKeyboard\TouchKeyboard\bin\Debug\TouchKeyboard.pdb
+D:\workplace\CHControl\TouchKeyboard\TouchKeyboard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\workplace\CHControl\TouchKeyboard\TouchKeyboard\obj\Debug\TouchKeyboard_MarkupCompile.cache
+D:\workplace\CHControl\TouchKeyboard\TouchKeyboard\obj\Debug\TouchKeyboard_MarkupCompile.lref
+D:\workplace\CHControl\TouchKeyboard\TouchKeyboard\obj\Debug\Themes\Generic.baml
+D:\workplace\CHControl\TouchKeyboard\TouchKeyboard\obj\Debug\TouchKeyboard.g.resources
+D:\workplace\CHControl\TouchKeyboard\TouchKeyboard\obj\Debug\TouchKeyboard.Properties.Resources.resources
+D:\workplace\CHControl\TouchKeyboard\TouchKeyboard\obj\Debug\TouchKeyboard.csproj.GenerateResource.Cache
+D:\workplace\CHControl\TouchKeyboard\TouchKeyboard\obj\Debug\TouchKeyboard.dll
+D:\workplace\CHControl\TouchKeyboard\TouchKeyboard\obj\Debug\TouchKeyboard.pdb
